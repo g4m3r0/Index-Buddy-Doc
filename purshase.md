@@ -1,0 +1,2 @@
+### **Purshase**
+Index Buddy can be purshased on our [online shop](https://gsoftwarelab.com/shop/). Orders will be processed instantly and the license key and download link will be shipped by email. For pre-sales questions kindly [contact us](https://gsoftwarelab.com/contact-us/).
