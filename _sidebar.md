@@ -1,7 +1,7 @@
 <!-- docs/_sidebar.md -->
 
 * Getting started
-* [Home](home.md)
+* [Home](/)
 * [Purshase](purshase.md)
 * [Installation](installation.md)
 * [Activation](activation.md)
