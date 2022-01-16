@@ -7,21 +7,20 @@ Backlinks are a very important part for the ranking of websites in search engine
 Index Buddy automatically submits your URLs to thousands of whois, statistics, redirects which results in hundreds or even thousands of backlinks. So Google, Bing and Baidu will get noticed about your URLs. The probability of indexing also highly depends on the quality of the pages’ content. The indexing process depends on secret algorithms used by search giants. To increase the probability of indexing a regular submission of your links and backlinks by Index Buddy will be recommended.
 
 ## Purchase
-Index Buddy can be purchased on our [online shop](https://gsoftwarelab.com/shop/). Orders will be processed instantly and the license key and download link will be shipped by email. For pre-sales questions kindly [contact us](https://gsoftwarelab.com/contact-us/).
+Index Buddy can be purchased on our [online shop](https://gsoftwarelab.com/shop/). Orders will be processed instantly, the license key and download link will be shipped by email. For pre-sales questions kindly [contact us](https://gsoftwarelab.com/contact-us/).
 
 ## Installation
 Download Index Buddy using the link in your order confirmation or from the [customer area](https://gsoftwarelab.com/my-account/downloads/).
 Index Buddy **requires the .Net Framework 4.8** or later. That package can be downloaded from [Microsoft](https://dotnet.microsoft.com/download/dotnet-framework/thank-you/net48-web-installer).
 
 ## Activation
-The lincese key is shipped with your order confirmation email. It has to be entered on first application start.
+The license key is shipped with your order confirmation email. It has to be entered on the first application start.
 It is recommened to write your license key down or to print out the order confirmation email.
 
 ![License activation](assets/img/activation1.png)
 
 To prevent typos consider copy and pasting the license key form the order comfirmation email.
-After pasting it make sure there is no spacebar in the beginning or at the end of the license key.
-
+After pasting it make sure there is no white space (" ") in the beginning or at the end of your entered license key.
 If you have problems activating your product please feel free to contact our support team.
 
 ## Trouble Shooting / FAQ
