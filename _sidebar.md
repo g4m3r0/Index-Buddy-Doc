@@ -1,15 +1,8 @@
 <!-- docs/_sidebar.md -->
 
-* Getting started
-* [Home](/)
-* [Purshase](purshase.md)
-* [Installation](installation.md)
-* [Activation](activation.md)
-* [Trouble Shooting / FAQ](faq.md)
+* Index Buddy - Software Documentation
+* [Getting started](/)
 
-* Software Guide
-* [Settings](settings.md)
-* [Indexing](indexing.md)
-* [Import](import.md)
-* [Export](export.md)
-* [Remove](remove.md)
+* Software Documentation
+* [Manual](guide.md)
+* [Changelog](changelog.md)
